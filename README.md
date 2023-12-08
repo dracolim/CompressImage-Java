@@ -10,7 +10,11 @@
 - Works by recursively dividing the image into 4 sub-spaces with each holding the average RGB color + the error that determines that color for its subspaces
 - The threshold is set based on that error and it helps the tree to determine if a node should be split further or not
 
-## In to Depth of the Quadtree structure
+### To run Code
+- copy and paste ```javac *.java``` into your terminal 
+- Run the App.java by entering ```java App.java``` into the same terminal
+
+## In to Depth of the Quadtree structure ↕️
 ### Quadtree Node 
 - Images are divided into smaller regions by recursively splitting them into four equal sized quadrants
 - Each node in the quadtree represents one of these quadrants
@@ -53,5 +57,6 @@ Utilized ExecutorService in parallelizing image compression. With a fixed thread
 
 ## For more in detailed explaination
 [Quadtree Video](https://youtu.be/2BvFSd4kBq8) 
+
 
 
