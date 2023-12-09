@@ -1,5 +1,5 @@
 # Compress Image using QuadTree in Java
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build In](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ### Why Quadtree? 🌳 
 - Reduce the size of an image without necessarily reducing the image quality
